@@ -24,5 +24,5 @@ Welcome to my JavaScript exercises repo. Here I am documenting my learning proce
 ## Index
 
 1. [ 📁 Summation (Sum from 1 to N)](./01-summation)
-2. [ 📂 Removing pair elements of an array ]
-
+2. [ 📂 Removing pair elements of an array ](<02 -RemovingPairElements>)
+3. [ 📁 Comparing first character of a string](03-ComparingFirstCharacter-string)
