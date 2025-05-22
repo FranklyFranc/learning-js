@@ -27,3 +27,4 @@ Welcome to my JavaScript exercises repo. Here I am documenting my learning proce
 2. [ 📂 Removing pair elements of an array ](<02 -RemovingPairElements>)
 3. [ 📁 Comparing first character of a string](03-ComparingFirstCharacter-string)
 4. [ 📁 Turn Array into String .Join() ](04-TurnArrayIntoStringWithSpacesInBetween)
+5. [ 📁 Basic if... with arrows ](./05-ConditionalWithArrows/)
