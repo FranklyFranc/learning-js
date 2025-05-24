@@ -1,3 +1,3 @@
 índice:
 
-K01.[ 📁 String with array as first element ](./01.StringToSentence) 
+K01.[ 📁 String with array as first element ](./K01.StringToSentence) 
