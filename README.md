@@ -28,3 +28,4 @@ Welcome to my JavaScript exercises repo. Here I am documenting my learning proce
 3. [ 📁 Comparing first character of a string](03-ComparingFirstCharacter-string)
 4. [ 📁 Turn Array into String .Join() ](04-TurnArrayIntoStringWithSpacesInBetween)
 5. [ 📁 Basic if... with arrows ](./05-ConditionalWithArrows/)
+6. [ 📁 String to Intger](./06-stringToInteger/)
