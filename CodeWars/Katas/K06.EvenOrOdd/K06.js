@@ -6,3 +6,9 @@ function evenOrOdd(number) {
     return "Odd";
   }
 }
+
+// Otra forma, más sencilla, menos legible
+
+function evenOrOdd(number) {
+  return number % 2 === 0 ? 'Even' : 'Odd';
+}
